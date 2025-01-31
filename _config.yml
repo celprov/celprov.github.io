@@ -112,7 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The most effective way to contact me is through email, thank you!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -243,6 +243,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
   - purgecss.config.js
   - README.md
   - readme_preview/
