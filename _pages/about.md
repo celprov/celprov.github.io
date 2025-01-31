@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>PhD candidate in Neuroscience and biomedical imaging</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-envelope"></i><a href="mailto:provins.celine@hotmail.com"> provins.celine@hotmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/c%C3%A9line-provins-142a46191/"> LinkedIn</a>
 
 profile:
   align: right
@@ -14,8 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Enthusiastic about developing pipelines drawing from significantly contributing to magnetic resonance imaging data
+processing software using Python and Git toolings during Ph.D.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Appreciated for excellent organizational and managing skills that ensure a reliable and timely delivery of results.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Recognized to show good communication skills whether it is to collaborate and coordinate with different stakeholders or to present clear results to a broad audience.
+
+Add my moto in a stylish way
