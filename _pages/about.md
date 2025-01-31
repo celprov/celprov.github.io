@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>PhD candidate in Neuroscience and biomedical imaging</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-envelope"></i><a href="mailto:provins.celine@hotmail.com"> provins.celine@hotmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/c%C3%A9line-provins-142a46191/"> LinkedIn</a>
+subtitle: <b>PhD candidate in Neuroscience and biomedical imaging</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <i class="fas fa-envelope"></i><a href="mailto:provins.celine@hotmail.com"> provins.celine@hotmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/c%C3%A9line-provins-142a46191/"> LinkedIn</a>
 
 profile:
   align: right
   image: CelineProvins_downsized.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
