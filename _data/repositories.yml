@@ -1,14 +1,25 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - celprov
 
 repo_description_lines_max: 2
 
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+github_repos_main:
+  - TheAxonLab/defacing-and-qc-analysis
+  - TheAxonLab/hcph-sops
+  - TheAxonLab/defacing-and-qc-ixi-reports
+  - TheAxonLab/defacing-and-qc-trainingsession
+  - TheAxonLab/hcph-derivatives-mriqc
+  - TheAxonLab/frontiers-qc-sops
+  #- TheAxonLab/hcph-dataset
+  #- TheAxonLab/hcph-mood-quest
+
+github_repos_contrib:
+  - nipreps/mriqc
+  - nipreps/qkay
+  - nipreps/fmriprep
+  - nipreps/niworkflows
+  - nipreps/nireports
+  - physiopy/physioqc
+  - nipreps/mriqc-learn
+  - TheAxonLab/HCPH-fMRI-tasks
+  
