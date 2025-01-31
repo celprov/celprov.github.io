@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: 
+description:
 nav: true
 nav_order: 4
 ---
@@ -36,6 +36,7 @@ nav_order: 4
 {% endif %}
 
 ## GitHub repositories where I am a main contributor
+
 {% if site.data.repositories.github_repos_main %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -48,6 +49,7 @@ nav_order: 4
 ---
 
 ## Open-source repositories I have contributed to
+
 {% if site.data.repositories.github_repos_contrib %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
