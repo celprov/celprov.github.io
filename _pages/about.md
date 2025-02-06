@@ -14,11 +14,24 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Enthusiastic about developing pipelines drawing from significantly contributing to magnetic resonance imaging data
-processing software using Python and Git toolings during Ph.D.
+<h2> Highlights </h2>
+<div style="padding-bottom: 40px; white-space: pre-line;">
+Enthusiastic about developing pipelines drawing from significantly contributing to magnetic resonance imaging data processing software using Python and Git toolings during Ph.D.
 
 Appreciated for excellent organizational and managing skills that ensure a reliable and timely delivery of results.
 
 Recognized to show good communication skills whether it is to collaborate and coordinate with different stakeholders or to present clear results to a broad audience.
+</div>
 
-Add my moto in a stylish way
+
+<h4> My motto </h4>
+---
+<div style="text-align: center; font-family: 'Didot', serif; font-size: 1.2em; font-style: italic;">
+Continuous learning, whilst delivering meaningful projects with existing and new expertise
+</div>
+---
+
+<!-- > <span style="font-family: 'Didot', serif; font-size: 1.0em; font-style: italic; margin-top: 0;">
+> Continuous learning, whilst delivering meaningful projects with existing and new expertise
+> </span> -->
+
