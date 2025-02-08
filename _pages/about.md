@@ -24,8 +24,8 @@ Recognized to show good communication skills whether it is to collaborate and co
 
 </div>
 
-## <h4> My motto </h4>
-
+<h4> My motto </h4>
+---
 <div style="text-align: center; font-family: 'Didot', serif; font-size: 1.2em; font-style: italic;">
 Continuous learning, whilst delivering meaningful projects with existing and new expertise
 </div>
