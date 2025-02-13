@@ -10,6 +10,7 @@ github_repos_main:
   - TheAxonLab/defacing-and-qc-trainingsession
   - TheAxonLab/hcph-derivatives-mriqc
   - TheAxonLab/frontiers-qc-sops
+  - celprov/wminterpolation_fmri_agcc
   #- TheAxonLab/hcph-dataset
   #- TheAxonLab/hcph-mood-quest
 
