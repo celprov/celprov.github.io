@@ -5,8 +5,8 @@ inline: true
 related_posts: false
 ---
 
-<b> I'm presenting a poster at OHBM22 in Glasgow, Scotland! </b>
+<b> I am presenting a poster at OHBM22 in Glasgow, Scotland! </b>
 <br>
-I'm presenting my poster entitled "Defacing biases manual and automated quality assessments of structural MRI with MRIQC".
+I am presenting my poster entitled "Defacing biases manual and automated quality assessments of structural MRI with MRIQC".
 Pass by my poster number WTh566 tomorrow thursday 23.06 at 1.45pm to share questions, ideas or suggestions.
 A preview of the poster content is available [here](https://doi.org/10.31219/osf.io/t9ehk).
