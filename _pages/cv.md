@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: CV
+layout: page
+permalink: /news/
+title: News
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
@@ -9,3 +9,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+{% include news.liquid %}
