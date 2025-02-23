@@ -6,8 +6,8 @@ subtitle: <b>PhD candidate in Neuroscience and biomedical imaging</b> &nbsp;&nbs
 
 profile:
   align: right
-  image: CelineProvins_downsized.jpg
-  image_circular: true # crops the image to make it circular
+  image: CelineProvins.jpg
+  image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
