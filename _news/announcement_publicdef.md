@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  Officially Dr. Provins!
+title: Officially Dr. Provins!
 date: 2025-03-06 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
- &#127891; An unforgettable graduation day!
+&#127891; An unforgettable graduation day!
 
 ---
 
 I had the immense pleasure of sharing four years of hard work to my colleagues, friends, and family—an opportunity for them to finally understand what my work is all about.
-At the end of this unforgettable day, I officially earned the title *Dr. Provins* :D!
+At the end of this unforgettable day, I officially earned the title _Dr. Provins_ :D!
 I am profoundly grateful for the support and guidance of my two fantastic thesis directors, Dr. Oscar Esteban and Prof. Patric Hagmann.
 Thank you for your trust, mentorship, and encouragement throughout this journey.
 
-Below are a few snapshots from this deeply fulfilling moment. 
+Below are a few snapshots from this deeply fulfilling moment.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
