@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>PhD graduate in Neuroscience and biomedical imaging</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <i class="fas fa-envelope"></i><a href="mailto:provins.celine@hotmail.com"> provins.celine@hotmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/celine-provins/"> LinkedIn</a>
+subtitle: <b>Researcher and Software Developer in Neuroscience and Biomedical Imaging</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <i class="fas fa-envelope"></i><a href="mailto:provins.celine@outlook.com"> provins.celine@hotmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/celine-provins/"> LinkedIn</a>
 
 profile:
   align: right
@@ -16,12 +16,12 @@ social: true # includes social icons at the bottom of the page
 
 <h2> Highlights </h2>
 <div style="padding-bottom: 40px; white-space: pre-line;">
-Enthusiastic about developing pipelines drawing from significantly contributing to magnetic resonance imaging data processing software using Python and Git toolings during Ph.D.
-
-Appreciated for excellent organizational and managing skills that ensure a reliable and timely delivery of results.
-
-Recognized to show good communication skills whether it is to collaborate and coordinate with different stakeholders or to present clear results to a broad audience.
-
+<b>Medical imaging expert with 5 years of experience</b> in developing, testing, and optimizing scalable, high-performance, and modular data pipelines for MRI using Python, R, containers, HPC, and Git tooling, building on strong foundations in biomedical
+engineering, biomarker research, and mathematics.
+<span style="display:inline-block; height:16px;"></span>
+<b>Appreciated for outstanding organizational</b> and for working effectively both independently and in teams, demonstrating curiosity, initiative and autonomy in solving complex problems and ensuring a reliable and timely delivery of results.
+<span style="display:inline-block; height:16px;"></span>
+<b>Recognized for excellent communication skills</b>, whether it is to collaborate with a multidisciplinary team or to communicate the interpretation of complex medical data to a broad audience effectively.
 </div>
 
 <h4> My motto </h4>
