@@ -1,0 +1,44 @@
+{% unless skill.redirect_to %}
+  <a href="{{ skill.url | relative_url }}">
+    <div class="col mb-4">
+      <div class="card h-100 hoverable">
+        {% if skill.img %}
+        <img class="card-img-top" src="{{ skill.img | relative_url }}" alt="{{ skill.title }}">
+        {% endif %}
+        <div class="card-body">
+          <h2 class="card-title">{{ skill.title }}</h2>
+          <p class="card-text">{{ skill.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+          {% if skill.github %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ skill.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+              </div>
+              {% if skill.github_stars %}
+                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                  <i class="fa-solid fa-star"></i>
+                  <span id="{{ skill.github_stars }}-stars"></span>
+                </span>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+        </div>
+      </div>
+    </div>
+  </a>
+{% else %}
+  <a href="{{ skill.redirect_to }}">
+    <div class="col mb-4">
+      <div class="card h-100 hoverable">
+        {% if skill.img %}
+        <img class="card-img-top" src="{{ skill.img | relative_url }}" alt="{{ skill.title }}">
+        {% endif %}
+        <div class="card-body">
+          <h2 class="card-title">{{ skill.title }}</2>
+          <p class="card-text">{{ skill.description }}</p>
+        </div>
+      </div>
+    </div>
+  </a>
+{% endunless %}

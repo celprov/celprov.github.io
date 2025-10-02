@@ -1,0 +1,8 @@
+<div class="skill-tags">
+{% for s in include.skills %}
+  {% assign sk = site.data.skills.skills | where: "slug", s | first %}
+  <a class="tag" href="{{ '/skills/' | append: sk.slug | append: '/' | relative_url }}">
+    {{ sk.name }}
+  </a>
+{% endfor %}
+</div>

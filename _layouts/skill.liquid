@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {{ content }}
+
+    <section>
+      <h2>Projects using {{ page.title }}</h2>
+      <ul>
+      {% for pr in site.projects %}
+        {% if pr.skills contains page.slug %}
+          <li><a href="{{ pr.url | relative_url }}">{{ pr.title }}</a> — {{ pr.summary }}</li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </section>
+  </article>
+</div>

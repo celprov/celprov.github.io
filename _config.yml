@@ -188,12 +188,15 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  skills:
+    output: true
+    permalink: /skills/:name/
   news:
     defaults:
       layout: post
-    output: true
-    permalink: /:collection/:title/
-  projects:
     output: true
     permalink: /:collection/:title/
 

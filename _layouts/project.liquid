@@ -1,0 +1,39 @@
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.summary | default: page.description }}</p>
+  </header>
+
+  <article>
+    {% include skill-tags.html skills=page.tags %}
+
+    <section>
+      <h2>Papers</h2>
+      <ul>
+      {% for p in page.papers %}
+        <li><a href="{{ p.link }}">{{ p.title }}</a>{% if p.venue %} ({{ p.venue }}, {{ p.year }}){% endif %}</li>
+      {% endfor %}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Repositories</h2>
+      <ul>
+      {% for r in page.repositories %}
+        <li><a href="{{ r.link }}">{{ r.name }}</a>{% if r.role %} — {{ r.role }}{% endif %}</li>
+      {% endfor %}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Achievements</h2>
+      <ul>
+      {% for a in page.achievements %}
+        <li>{{ a.type }} — <a href="{{ a.link }}">{{ a.title }}</a>{% if a.year %} ({{ a.year }}){% endif %}</li>
+      {% endfor %}
+      </ul>
+    </section>
+
+    {{ content }}
+  </article>
+</div>
