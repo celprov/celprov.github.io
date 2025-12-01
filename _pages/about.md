@@ -27,7 +27,7 @@ engineering, biomarker research, and mathematics.
 <h4> My motto </h4>
 ---
 <div style="text-align: center; font-family: 'Didot', serif; font-size: 1.2em; font-style: italic;">
-Continuous learning, whilst delivering meaningful projects with existing and new expertise
+Turning complex data into reliable insights
 </div>
 ---
 
