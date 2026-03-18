@@ -24,5 +24,4 @@ nav_order: 2
 <h1>Conference Proceedings</h1>
 {% bibliography --query @inproceedings %}
 
-
 </div>
