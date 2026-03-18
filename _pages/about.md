@@ -6,7 +6,7 @@ subtitle: <b>Researcher and Software Developer in Neuroscience and Biomedical Im
 
 profile:
   align: right
-  image: CelineProvins.jpg
+  image: CelineProvins2.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
@@ -27,7 +27,7 @@ engineering, biomarker research, and mathematics.
 <h4> My motto </h4>
 ---
 <div style="text-align: center; font-family: 'Didot', serif; font-size: 1.2em; font-style: italic;">
-Turning complex data into reliable insights
+Turning complex medical data into reliable insights
 </div>
 ---
 
