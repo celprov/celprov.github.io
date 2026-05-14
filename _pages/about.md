@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Researcher and Software Developer in Neuroscience and Biomedical Imaging</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <i class="fas fa-envelope"></i><a href="mailto:provins.celine@outlook.com"> provins.celine@hotmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/celine-provins/"> LinkedIn</a>
+subtitle: <b>Data Scientist specializing in Biomedical Timeseries Analysis</b> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fas fa-map-marker-alt"></i> Switzerland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> <i class="fas fa-envelope"></i><a href="mailto:provins.celine@outlook.com"> provins.celine@outlook.com</a> &nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/celine-provins/"> LinkedIn</a>
 
 profile:
   align: right
